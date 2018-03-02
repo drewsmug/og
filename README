@@ -1,1 +1,4 @@
 To setup in Ubuntu run the setup.sh script  to install the required libraries.
+
+Add -lglfw to the build command
+	gcc main.cpp -lglfw -lGLEW
