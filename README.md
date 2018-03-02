@@ -1,2 +1,0 @@
-# og
-opengl graphics learning
